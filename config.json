@@ -1,5 +1,5 @@
 {
-  "server_enabled": true,
+  "server_enabled": false,
   "maintenance": false,
   "message": "Server DANZ ONLINE",
   "version": "2.0"
